@@ -10340,7 +10340,7 @@ Humpback Whale
 Crowned Eagle
 King Eider
 Cockatiel
-Lion’s Mane Jellyfish
+Lions Mane Jellyfish
 Wandering Albatross
 Jaguarundi
 Margay
@@ -10397,7 +10397,7 @@ Bull Shark
 Irish Setter
 Octopus
 Snowy Egret
-Pallas’s Cat
+Pallass Cat
 Vampire Bat
 Anole
 Magpie
@@ -10553,7 +10553,7 @@ Dromedary Camel
 Hare
 Egyptian Mau
 Japanese Spider Crab
-Steller’s Sea Eagle
+Stellers Sea Eagle
 Eastern Bluebird
 Common Octopus
 Swordtail Fish
@@ -10714,7 +10714,7 @@ Leopard Seal
 Mole Salamander
 Horned Puffin
 French Bulldog
-Cooper’s Hawk
+Coopers Hawk
 African Lion
 King Cobra
 Raven
@@ -10783,7 +10783,7 @@ Wasp
 Russian Blue Cat
 Grey Seal
 California Sea Lion
-Przewalski’s Horse
+Przewalskis Horse
 Tasmanian Tiger
 Yak
 Green Sea Turtle
@@ -10868,7 +10868,7 @@ Alligator
 Water Dragon
 Kangaroo Rat
 Albatross
-Doria’s Tree Kangaroo
+Dorias Tree Kangaroo
 Silverfish
 Falcon
 Bush Viper
@@ -10975,7 +10975,7 @@ Hippopotamus
 Ostrich
 Kangaroo Mouse
 Desert Horned Viper
-Geoffroy’s Cat
+Geoffroys Cat
 Black-footed Cat
 Starfish
 Dragonfish
@@ -11069,7 +11069,7 @@ African Jacana
 Mandrill
 Skunk
 Goblin Shark
-Darwin’s Frog
+Darwins Frog
 Sheep
 Peregrine Falcon
 Turtle
@@ -11119,7 +11119,7 @@ Harpy Eagle
 Bush Baby
 Green Anaconda
 Javelina
-Portuguese Man o’ War
+Portuguese Man o War
 Mastiff
 Indri
 Zonkey
